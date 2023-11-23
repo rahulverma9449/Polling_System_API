@@ -1,6 +1,6 @@
 # PollingAPI
 
-![Uploading image.png…]()
+ 
 
 API for Polling Questions - Coding Ninjas Backend Skill Test Project
 
